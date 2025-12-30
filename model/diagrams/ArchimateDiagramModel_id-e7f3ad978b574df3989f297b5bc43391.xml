@@ -958,7 +958,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d700e47c94ca477b9f59cba813397664"
         fontColor="#ffffff"
-        fillColor="#008080"
+        fillColor="#ff8000"
         textPosition="1">
       <bounds
           x="1008"
