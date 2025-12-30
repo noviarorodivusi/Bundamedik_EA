@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6. Service_Portfolio_Enhance_Dashboard_Mgmt_System"
+    name="06. Service_Portfolio_Enhance_Dashboard_Mgmt_System"
     id="id-9f0ca0dd1fc34037820e99b1e39c800e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

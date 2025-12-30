@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5. Service_Portfolio_Product_Development_Planning_System"
+    name="05. Service_Portfolio_Product_Development_Planning_System"
     id="id-f17bd0c895d34f0999f7077e4e813c72">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
