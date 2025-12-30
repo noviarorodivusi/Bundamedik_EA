@@ -1004,7 +1004,7 @@
         id="id-14f002aa81f94bc58657c2a4a05c9f84"
         targetConnections="id-22c43592d9734461a439d95cc561f495"
         fontColor="#ffffff"
-        fillColor="#008080"
+        fillColor="#0080c0"
         textPosition="1">
       <bounds
           x="1596"
@@ -1238,8 +1238,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-288ad131999e4717a2e48dd956865c74"
-          fontColor="#ffffff"
-          fillColor="#008080"
+          fontColor="#000000"
+          fillColor="#e0a95f"
           textPosition="1">
         <bounds
             x="48"

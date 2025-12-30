@@ -1220,11 +1220,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-beff8f895c79497fabe61b66a21666c9.xml#id-beff8f895c79497fabe61b66a21666c9"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-976549dd217342638d33ed02b9bd3775"
+        source="id-081573347fd945a7989a1b9a9b96402d"
+        target="id-778565dd0ca54477bc66e48186ad6998">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-dd241269b2f043578f90b37c5cac2b16.xml#id-dd241269b2f043578f90b37c5cac2b16"/>
+    </sourceConnections>
     <bounds
         x="37"
-        y="3156"
+        y="2964"
         width="324"
-        height="325"/>
+        height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e5f1a9f22a6d48418fd14a5427d2a89a"
@@ -1262,7 +1271,7 @@
         fillColor="#008000">
       <bounds
           x="12"
-          y="132"
+          y="180"
           width="288"
           height="37"/>
       <archimateElement
@@ -1277,7 +1286,7 @@
         fillColor="#008000">
       <bounds
           x="12"
-          y="180"
+          y="228"
           width="288"
           height="37"/>
       <archimateElement
@@ -1292,7 +1301,7 @@
         fillColor="#008000">
       <bounds
           x="12"
-          y="228"
+          y="276"
           width="288"
           height="37"/>
       <archimateElement
@@ -1307,12 +1316,27 @@
         fillColor="#008000">
       <bounds
           x="12"
-          y="276"
+          y="324"
           width="289"
           height="37"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-4fe54c47dfe74e2ebaa52e4f7cbd80c9.xml#id-4fe54c47dfe74e2ebaa52e4f7cbd80c9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-778565dd0ca54477bc66e48186ad6998"
+        targetConnections="id-976549dd217342638d33ed02b9bd3775"
+        fontColor="#ffffff"
+        fillColor="#008000">
+      <bounds
+          x="12"
+          y="132"
+          width="288"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_id-b62f300ffdca4dbbad4765226aad2604.xml#id-b62f300ffdca4dbbad4765226aad2604"/>
     </children>
     <archimateElement
         xsi:type="archimate:WorkPackage"
@@ -1349,8 +1373,8 @@
           href="CompositionRelationship_id-1b158c5d65234767a60b07c5a02803cd.xml#id-1b158c5d65234767a60b07c5a02803cd"/>
     </sourceConnections>
     <bounds
-        x="37"
-        y="2964"
+        x="38"
+        y="3348"
         width="324"
         height="180"/>
     <children

@@ -1220,6 +1220,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-beff8f895c79497fabe61b66a21666c9.xml#id-beff8f895c79497fabe61b66a21666c9"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-40b1127981e447e09bad186b64565743"
+        source="id-8aefdd3c24194528ad6146f8fd1a4f9c"
+        target="id-b7a0fcfb00894e1094063acdece25162">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-dd241269b2f043578f90b37c5cac2b16.xml#id-dd241269b2f043578f90b37c5cac2b16"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="2832"
@@ -1248,7 +1257,7 @@
       <bounds
           x="24"
           y="84"
-          width="732"
+          width="577"
           height="36"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
@@ -1263,7 +1272,7 @@
       <bounds
           x="252"
           y="132"
-          width="504"
+          width="301"
           height="37"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
@@ -1278,7 +1287,7 @@
       <bounds
           x="252"
           y="180"
-          width="504"
+          width="301"
           height="37"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
@@ -1313,6 +1322,21 @@
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-4fe54c47dfe74e2ebaa52e4f7cbd80c9.xml#id-4fe54c47dfe74e2ebaa52e4f7cbd80c9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b7a0fcfb00894e1094063acdece25162"
+        targetConnections="id-40b1127981e447e09bad186b64565743"
+        fontColor="#ffffff"
+        fillColor="#008000">
+      <bounds
+          x="612"
+          y="84"
+          width="169"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_id-b62f300ffdca4dbbad4765226aad2604.xml#id-b62f300ffdca4dbbad4765226aad2604"/>
     </children>
     <archimateElement
         xsi:type="archimate:WorkPackage"
